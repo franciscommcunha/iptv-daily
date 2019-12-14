@@ -1,251 +1,237 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1.ts
-#EXTINF:-1,RTP 2
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/2.ts
-#EXTINF:-1,SIC
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3.ts
-#EXTINF:-1,TVI
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/4.ts
-#EXTINF:-1,---------- NOTICIAS ----------
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/67.ts
-#EXTINF:-1,CMTV
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/8.ts
-#EXTINF:-1,RTP 3
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/5.ts
-#EXTINF:-1,TVI  24
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/7.ts
-#EXTINF:-1,A BOLA
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/30.ts
-#EXTINF:-1,SIC NOTICIAS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/6.ts
-#EXTINF:-1,PORTO CANAL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/51.ts
-#EXTINF:-1,SPORT TV +
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/33.ts
-#EXTINF:-1,Sport tv + LSD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1603.ts
-#EXTINF:-1,RTP MEMORIA
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/647.ts
-#EXTINF:-1,---------- ANIMAÇAO ----------
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/68.ts
-#EXTINF:-1,SIC K
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/10.ts
-#EXTINF:-1,SIC RADICAL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/12.ts
-#EXTINF:-1,PANDA BIGGS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/9.ts
-#EXTINF:-1,JIM JAM
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/11.ts
-#EXTINF:-1,NICKELODEON
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/14.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/15.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/16.ts
-#EXTINF:-1,CARTOON NETWORK
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/17.ts
-#EXTINF:-1,CANAL PANDA
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/13.ts
-#EXTINF:-1,---------- FILMES & SERIES ----------
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/69.ts
-#EXTINF:-1,AMC
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/21.ts
-#EXTINF:-1,AXN HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/18.ts
-#EXTINF:-1,AXN WHITE
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/20.ts
-#EXTINF:-1,AXN BLACK
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/19.ts
-#EXTINF:-1,SYFY
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/645.ts
-#EXTINF:-1,FOX COMEDY
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/52.ts
-#EXTINF:-1,FOX
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/642.ts
-#EXTINF:-1,FOX LIFE
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1229.ts
-#EXTINF:-1,FOX CRIME
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/641.ts
-#EXTINF:-1,FOX MOVIES
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/22.ts
-#EXTINF:-1,CINEMUNDO
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/23.ts
-#EXTINF:-1,HOLLYWOOD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/24.ts
-#EXTINF:-1,NOS STUDIOS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3499.ts
-#EXTINF:-1,TVCINE 1
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1738.ts
-#EXTINF:-1,TVCINE 1 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/25.ts
-#EXTINF:-1,TVCINE 2
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1739.ts
-#EXTINF:-1,TVCINE 2 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/26.ts
-#EXTINF:-1,TVCINE 3
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1740.ts
-#EXTINF:-1,TVCINE 3 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/27.ts
-#EXTINF:-1,TVCINE 4
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1741.ts
-#EXTINF:-1,TVCINE 4 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/28.ts
-#EXTINF:-1,TV SERIES
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1743.ts
-#EXTINF:-1,TVSERIES HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/29.ts
-#EXTINF:-1,---------- DESPORTO ----------
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/70.ts
-#EXTINF:-1,SPORT TV 1
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/34.ts
-#EXTINF:-1,SPORT TV 1 ( Opção 2 ) NOS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/32.ts
-#EXTINF:-1,SPORT TV 1 HD / BTV
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/183.ts
-#EXTINF:-1,SPORT TV 1 HD ( Opção 2 ) NOS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/184.ts
-#EXTINF:-1,SPORT TV 1 FHD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1477.ts
-#EXTINF:-1,SPORT TV 1 UHD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/36.ts
-#EXTINF:-1,Sport tv 1 LSD (net movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1604.ts
-#EXTINF:-1,SPORT TV 2
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/651.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/37.ts
-#EXTINF:-1,Sport tv 2 LSD (net movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1605.ts
-#EXTINF:-1,SPORT TV 3
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/652.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/38.ts
-#EXTINF:-1,Sport tv 3 LSD (net movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1606.ts
-#EXTINF:-1,SPORT TV 4
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/39.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/922.ts
-#EXTINF:-1,Sport tv 4 LSD (net movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1607.ts
-#EXTINF:-1,SPORT TV 5
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/40.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/187.ts
-#EXTINF:-1,Sport tv 5 LOW HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1478.ts
-#EXTINF:-1,Sport tv 5 LSD (net movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1608.ts
-#EXTINF:-1,BENFICA TV 1
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/41.ts
-#EXTINF:-1,BENFICA TV 1 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/42.ts
-#EXTINF:-1,BENFICA TV 1 ( Opção 2 NOS )
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/653.ts
-#EXTINF:-1,BENFICA TV 1  (1 MEGA)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/189.ts
-#EXTINF:-1,Canal 11
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3500.ts
-#EXTINF:-1,Eleven Sports 1 SD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1504.ts
-#EXTINF:-1,Eleven Sports 1 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1483.ts
-#EXTINF:-1,Eleven Sports 1 FHD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1490.ts
-#EXTINF:-1,Eleven Sports 1 LSD (Net Movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1735.ts
-#EXTINF:-1,Eleven Sports 2 SD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1505.ts
-#EXTINF:-1,Eleven Sports 2 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1484.ts
-#EXTINF:-1,Eleven Sports 2 FHD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1492.ts
-#EXTINF:-1,Eleven Sports 2 LSD (Net Movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1736.ts
-#EXTINF:-1,Eleven Sports 3 SD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1493.ts
-#EXTINF:-1,Eleven Sports 3 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1494.ts
-#EXTINF:-1,Eleven Sports 3 FHD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1506.ts
-#EXTINF:-1,Eleven Sports 3 LSD (Net Movel)
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1737.ts
-#EXTINF:-1,Eleven Sports 4 SD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1501.ts
-#EXTINF:-1,Eleven Sports 4 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1498.ts
-#EXTINF:-1,Eleven Sports 5 SD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1502.ts
-#EXTINF:-1,Eleven Sports 5 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1499.ts
-#EXTINF:-1,Eleven Sports 6 SD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1503.ts
-#EXTINF:-1,Eleven Sports 6 HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1500.ts
-#EXTINF:-1,SPORTING TV
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/646.ts
-#EXTINF:-1,EUROSPORT 1
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/31.ts
-#EXTINF:-1,EUROSPORT 2
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1742.ts
-#EXTINF:-1,NBA TV HD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/188.ts
-#EXTINF:-1,CAÇAVISION
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/43.ts
-#EXTINF:-1,CAZA y PESCA
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/44.ts
-#EXTINF:-1,MOTORVISION
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/190.ts
-#EXTINF:-1,KOMBAT SPORTS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/191.ts
-#EXTINF:-1,RED BULL TV
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3501.ts
-#EXTINF:-1,MOTO GP
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1436.ts
-#EXTINF:-1,PFC
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/654.ts
-#EXTINF:-1,---------- ENTERTIMENTO ----------
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/71.ts
-#EXTINF:-1,TVI  REALITY
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/45.ts
-#EXTINF:-1,TVI REALITY MOSAICO ( OFF )
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/46.ts
-#EXTINF:-1,CANAL Q
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1440.ts
-#EXTINF:-1,TLC
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1345.ts
-#EXTINF:-1,SIC CARAS
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/921.ts
-#EXTINF:-1,SIC MULHER
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/648.ts
-#EXTINF:-1,TVI FICCAO
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/50.ts
-#EXTINF:-1,TV RECORD
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/47.ts
-#EXTINF:-1,TV GLOBO
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/48.ts
-#EXTINF:-1,TV GLOBO NOW
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/49.ts
-#EXTINF:-1,ODISSEIA
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/53.ts
-#EXTINF:-1,HISTORIA
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/54.ts
-#EXTINF:-1,DISCOVERY CHANNEL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/55.ts
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/56.ts
-#EXTINF:-1,NAT GEO WILL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/57.ts
-#EXTINF:-1,TRAVEL CHANNEL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/61.ts
-#EXTINF:-1,24 KITCHEN
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/58.ts
-#EXTINF:-1,FOOD NETWORK
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1439.ts
-#EXTINF:-1,VH1
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1442.ts
-#EXTINF:-1,VH1 CLASSIC
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1441.ts
-#EXTINF:-1,MTV PORTUGAL
-http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/59.ts
+#EXTINF:-1,PT| RTP 1 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107451
+#EXTINF:-1,PT| RTP 1
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107452
+#EXTINF:-1,PT| RTP 2 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107449
+#EXTINF:-1,PT| RTP 2
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107450
+#EXTINF:-1,PT| RTP 3
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107448
+#EXTINF:-1,PT| SIC HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107442
+#EXTINF:-1,PT| SIC
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107444
+#EXTINF:-1,PT| SIC (NA)
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/101868
+#EXTINF:-1,PT| TVI HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107525
+#EXTINF:-1,PT| TVI
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107417
+#EXTINF:-1,PT| TVI (NA)
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/101869
+#EXTINF:-1,PT| RTP INTERNACIONAL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107410
+#EXTINF:-1,PT| TVI 24
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107416
+#EXTINF:-1,PT| SIC NOTICIAS
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107439
+#EXTINF:-1,PT| CNBC
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107502
+#EXTINF:-1,PT| TVE 24H
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107419
+#EXTINF:-1,PT| TVE INTERNATIONAL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107418
+#EXTINF:-1,PT| CMTV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107503
+#EXTINF:-1,PT| RTP AFRICA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107453
+#EXTINF:-1,PT| RTP MADEIRA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107446
+#EXTINF:-1,PT| RTP ACORES
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107447
+#EXTINF:-1,PT| CANAL Q
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107508
+#EXTINF:-1,PT| RTP MEMORIA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107445
+#EXTINF:-1,PT| TV RECORD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107424
+#EXTINF:-1,PT| GLOBO INTERNATIONAL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/79655
+#EXTINF:-1,PT| GLOBO MEO
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107478
+#EXTINF:-1,PT| GLOBO NOS
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107409
+#EXTINF:-1,PT| GLOBO NOW
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107477
+#EXTINF:-1,PT| TVI FICCAO
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107415
+#EXTINF:-1,PT| TVI REALITY
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107414
+#EXTINF:-1,PT| ZAP VIVA HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107411
+#EXTINF:-1,PT| TPA1
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107526
+#EXTINF:-1,PT| TV ZIMBO
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107527
+#EXTINF:-1,PT| TCV CABO
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/86460
+#EXTINF:-1,PT| CANAL 11 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107524
+#EXTINF:-1,PT| SPORT TV + HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107437
+#EXTINF:-1,PT| SPORT TV 1 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107436
+#EXTINF:-1,PT| SPORT TV 2 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107435
+#EXTINF:-1,PT| SPORT TV 3 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107434
+#EXTINF:-1,PT| SPORT TV 4 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107433
+#EXTINF:-1,PT| SPORT TV 5 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107432
+#EXTINF:-1,PT| ELEVEN SPORTS 1 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107495
+#EXTINF:-1,PT| ELEVEN SPORTS 2 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107494
+#EXTINF:-1,PT| ELEVEN SPORTS 3
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107493
+#EXTINF:-1,PT| ELEVEN SPORTS 4
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107492
+#EXTINF:-1,PT| ELEVEN SPORTS 5
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107491
+#EXTINF:-1,PT| ELEVEN SPORTS 6
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107490
+#EXTINF:-1,PT| BTV 1 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107511
+#EXTINF:-1,PT| SPORTING TV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107430
+#EXTINF:-1,PT| SPORT TV NBA HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107431
+#EXTINF:-1,PT| PFC
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107456
+#EXTINF:-1,PT| MOTORVISION
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107468
+#EXTINF:-1,PT| KOMBAT SPORT
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107472
+#EXTINF:-1,PT| FUEL TV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107479
+#EXTINF:-1,PT| EUROSPORT 1 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107488
+#EXTINF:-1,PT| EUROSPORT 2
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107487
+#EXTINF:-1,PT| A BOLA TV HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107522
+#EXTINF:-1,PT| PORTO CANAL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107454
+#EXTINF:-1,PT| CANCAO NOVA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107507
+#EXTINF:-1,PT| FOX HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107484
+#EXTINF:-1,PT| FOX COMEDY
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107486
+#EXTINF:-1,PT| FOX CRIME HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107485
+#EXTINF:-1,PT| FOX LIFE HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107483
+#EXTINF:-1,PT| FOX MOVIES
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107482
+#EXTINF:-1,PT| FOX NEWS
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107481
+#EXTINF:-1,PT| TVCINE 1 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107423
+#EXTINF:-1,PT| TVCINE 2 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107422
+#EXTINF:-1,PT| TVCINE 3 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107421
+#EXTINF:-1,PT| TVCINE 4 HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107420
+#EXTINF:-1,PT| TV SERIES HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107413
+#EXTINF:-1,PT| AXN HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107517
+#EXTINF:-1,PT| AXN BLACK HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107518
+#EXTINF:-1,PT| AXN WHITE HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107516
+#EXTINF:-1,PT| CINEMUNDO HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107504
+#EXTINF:-1,PT| NOS STUDIOS HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107459
+#EXTINF:-1,PT| HOLLYWOOD HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107475
+#EXTINF:-1,PT| NICKELODEON
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107460
+#EXTINF:-1,PT| NICK JR.
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107461
+#EXTINF:-1,PT| JIM JAM
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107473
+#EXTINF:-1,PT| DISNEY JUNIOR
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107497
+#EXTINF:-1,PT| DISNEY CHANNEL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107498
+#EXTINF:-1,PT| BABY TV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107515
+#EXTINF:-1,PT| BIGGS
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107514
+#EXTINF:-1,PT| CANAL PANDA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107509
+#EXTINF:-1,PT| VH1
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107412
+#EXTINF:-1,PT| TRAVEL CHANNEL HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107426
+#EXTINF:-1,PT| 24 KITCHEN HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107523
+#EXTINF:-1,PT| MY CUISINE
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107466
+#EXTINF:-1,PT| TLC
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107428
+#EXTINF:-1,PT| SYFY
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107429
+#EXTINF:-1,PT| ODISSEIA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107458
+#EXTINF:-1,PT| PARLAMENTO
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107457
+#EXTINF:-1,PT| AFRO MUSIC
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107521
+#EXTINF:-1,PT| TRACE TOCA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107427
+#EXTINF:-1,PT| MCM POP
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107470
+#EXTINF:-1,PT| MEZZO
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107469
+#EXTINF:-1,PT| MTV PORTUGAL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107467
+#EXTINF:-1,PT| NAT GEO HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107465
+#EXTINF:-1,PT| NAT GEO WILD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107464
+#EXTINF:-1,PT| FASHION TV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107480
+#EXTINF:-1,PT| HISTORIA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107476
+#EXTINF:-1,PT| DISCOVERY ID
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107474
+#EXTINF:-1,PT| E! ENTERTAINMENT
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107496
+#EXTINF:-1,PT| EUROPE CHANNEL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107489
+#EXTINF:-1,PT| CBS REALITY
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107505
+#EXTINF:-1,PT| BLAZE
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107513
+#EXTINF:-1,PT| BLOOMBERG
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107512
+#EXTINF:-1,PT| CACEA E PESCA
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107510
+#EXTINF:-1,PT| CRIME INVESTIGATION
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107501
+#EXTINF:-1,PT| DISCOVERY HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107499
+#EXTINF:-1,PT| DISCOVERY CHANNEL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107500
+#EXTINF:-1,PT| AMC HD
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107520
+#EXTINF:-1,PT| ARTV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107519
+#EXTINF:-1,PT| SIC CARAS
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107443
+#EXTINF:-1,PT| SIC MULHER
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107440
+#EXTINF:-1,PT| SIC RADICAL
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107438
+#EXTINF:-1,PT| SIC K
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107441
+#EXTINF:-1,PT| KURIAKOS TV
+http://line.protv.cc:8000/NOdmfVn9cn/3J9tIvtvWX/107471
