@@ -1,183 +1,251 @@
-#EXTM3U url-tvg="https://ptiptv.tk/guia.xml"
-#EXTINF:-1 tvg-id="RTP1" tvg-logo="https://ptiptv.tk/logo?i=RTP1" group-title="Entertainment",RTP 1
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2" tvg-logo="https://ptiptv.tk/logo?i=RTP2" group-title="Entertainment",RTP 2
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-logo="https://ptiptv.tk/logo?i=SIC" group-title="Entertainment",SIC
-http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-logo="https://ptiptv.tk/logo?i=TVI" group-title="Entertainment",TVI
-http://video-auth7.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://ptiptv.tk/logo?i=RTP3" group-title="News",RTP 3
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpn.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-logo="https://ptiptv.tk/logo?i=SICN" group-title="News",SIC Notícias
-http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-logo="https://ptiptv.tk/logo?i=TVI24" group-title="News",TVI 24
-http://video-auth7.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV" tvg-logo="https://ptiptv.tk/logo?i=ARTV" group-title="News",ARTV
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPM" tvg-logo="https://ptiptv.tk/logo?i=RTPM" group-title="Entertainment",RTP Memória
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICC" tvg-logo="https://ptiptv.tk/logo?i=SICC" group-title="Entertainment",SIC Caras
-http://live.impresa.pt/live/siccaras/siccaras.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVIREAL" group-title="Entertainment",TVI Reality
-http://video-auth7.iol.pt/live_tvi_direct/live_tvi_direct/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAC" tvg-logo="https://ptiptv.tk/logo?i=RTPAC" group-title="Entertainment",RTP Açores
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMD" tvg-logo="https://ptiptv.tk/logo?i=RTPMD" group-title="Entertainment",RTP Madeira
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPI" tvg-logo="https://ptiptv.tk/logo?i=RTPI" group-title="Entertainment",RTP Internacional
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPA" tvg-logo="https://ptiptv.tk/logo?i=RTPA" group-title="Entertainment",RTP África
-http://streaming-live-app.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SKYN" tvg-logo="https://ptiptv.tk/logo?i=SKYN" tvg-language="en" group-title="News",Sky News (en)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1 tvg-id="BLOOM" tvg-logo="https://ptiptv.tk/logo?i=BLOOM" tvg-language="en" group-title="News",Bloomberg (en)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 tvg-id="FR24I" tvg-logo="https://ptiptv.tk/logo?i=FR24I" tvg-language="en" group-title="News",France 24 (en)
-http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="DW-TV" tvg-logo="https://ptiptv.tk/logo?i=DW-TV" tvg-language="en" group-title="News",Deutsche Welle (en)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1 tvg-id="ALJAZ" tvg-logo="https://ptiptv.tk/logo?i=ALJAZ" tvg-language="en" group-title="News",Al Jazeera (en)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-id="RUSST" tvg-logo="https://ptiptv.tk/logo?i=RUSST" tvg-language="en" group-title="News",Russia Today (en)
-http://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-id="NHKHD" tvg-logo="https://ptiptv.tk/logo?i=NHKHD" tvg-language="en" group-title="News",NHK World (en)
-http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://ptiptv.tk/logo?i=CGTN" tvg-language="en" group-title="News",CGTN (en)
-http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTNDHD" tvg-logo="https://ptiptv.tk/logo?i=CGTNDHD" tvg-language="en" group-title="Documentary",CGTN Documentary (en)
-http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="TVE24" tvg-logo="https://ptiptv.tk/logo?i=TVE24" tvg-language="es" group-title="News",TVE 24h (es)
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TVEI" tvg-language="es" group-title="Entertainment",TVE (es)
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=A3INTER" tvg-language="es" group-title="Entertainment",Antena 3 (es)
-https://livestartover-i.akamaized.net/geoantena3/master.m3u8
-#EXTINF:-1 tvg-id="TVGAL" tvg-logo="https://ptiptv.tk/logo?i=TVGAL" tvg-country="ES" tvg-language="gl" group-title="Entertainment",TV Galicia (gl)
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="FR24F" tvg-logo="https://ptiptv.tk/logo?i=FR24F" tvg-language="fr" group-title="News",France 24 (fr)
-http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="TV5" tvg-logo="https://ptiptv.tk/logo?i=TV5" tvg-language="fr" group-title="Entertainment",TV5 Monde (fr)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="RAINEWS" tvg-logo="https://ptiptv.tk/logo?i=RAINEWS" tvg-language="it" group-title="News",Rai News 24 (it)
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-id="DWTVA" tvg-logo="https://ptiptv.tk/logo?i=DWTVA" tvg-language="de" group-title="News",Deutsche Welle (de)
-http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
-#EXTINF:-1 tvg-id="ZIGZAG" tvg-logo="https://ptiptv.tk/logo?i=ZIGZAG" group-title="Kids",Zig Zag
-https://ptiptv.tk/zigzag.m3u8
-#EXTINF:-1 tvg-id="FTV" tvg-logo="https://ptiptv.tk/logo?i=FTV" group-title="Lifestyle",Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FTVHD" tvg-logo="https://ptiptv.tk/logo?i=FTVHD" group-title="Lifestyle",Fashion HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRACE" tvg-logo="https://ptiptv.tk/logo?i=TRACE" group-title="Music",Trace Urban
-http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
-#EXTINF:-1 tvg-id="TRACETC" tvg-logo="https://ptiptv.tk/logo?i=TRACETC" group-title="Music",Trace Toca
-http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/5/prog_index.m3u8
-#EXTINF:-1 tvg-id="RDP1" tvg-logo="https://ptiptv.tk/logo?i=RDP1" group-title="Entertainment",Antena 1 (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDP2" tvg-logo="https://ptiptv.tk/logo?i=RDP2" group-title="Entertainment",Antena 2 (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDP3" tvg-logo="https://ptiptv.tk/logo?i=RDP3" group-title="Entertainment",Antena 3 (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDP1AC" tvg-logo="https://ptiptv.tk/logo?i=RDP1AC" group-title="Entertainment",Antena 1 Açores (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDP1MD" tvg-logo="https://ptiptv.tk/logo?i=RDP1MD" group-title="Entertainment",Antena 1 Madeira (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDP3MD" tvg-logo="https://ptiptv.tk/logo?i=RDP3MD" group-title="Entertainment",Antena 3 Madeira (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDPI" tvg-logo="https://ptiptv.tk/logo?i=RDPI" group-title="Entertainment",RDP Internacional (aud)
-http://streaming-live-app.rtp.pt/liveradio/rdpint80a/playlist.m3u8
-#EXTINF:-1 tvg-id="RDPA" tvg-logo="https://ptiptv.tk/logo?i=RDPA" group-title="Entertainment",RDP África (aud)
-http://streaming-live-app.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1M" group-title="Entertainment",Antena 1 Memória (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1L" group-title="Music",Antena 1 Lusitânia (aud)
-http://streaming-live-app.rtp.pt/liveradio/lusitania80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1V" group-title="Entertainment",Antena 1 Vida (aud)
-http://streaming-live-app.rtp.pt/liveradio/vida80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP1F" group-title="Music",Antena 1 Fado (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena1fado80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2J" group-title="Music",Antena 2 Jazzin’ (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RDP2O" group-title="Music",Antena 2 Ópera (aud)
-http://streaming-live-app.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=ZIGZAGR" group-title="Kids",Rádio ZigZag (aud)
-http://streaming-live-app.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCOM" group-title="Entertainment",Rádio Comercial (aud)
-http://mcrwowza3.mcr.iol.pt/comercial/ngrp:comercial.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCROCK" group-title="Music",Rádio Comercial Rock (aud)
-http://mcrwowza7.mcr.iol.pt/rcrock/rcrock.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCDANCE" group-title="Music",Rádio Comercial Dance (aud)
-http://mcrwowza7.mcr.iol.pt/rcdance/rcdance.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCHIT" group-title="Music",Rádio Comercial One Hit Wonders (aud)
-http://mcrwowza7.mcr.iol.pt/rchit/rchit.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCSOFT" group-title="Music",Rádio Comercial Soft (aud)
-http://mcrwowza7.mcr.iol.pt/rcsoft/rcsoft.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RCTUGA" group-title="Music",Rádio Comercial Made in Portugal (aud)
-http://mcrwowza7.mcr.iol.pt/rctuga/rctuga.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80" group-title="Entertainment",M80 Rádio (aud)
-http://mcrwowza3.mcr.iol.pt/m80/ngrp:m80.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8080" group-title="Music",M80 Rádio 80’s (aud)
-http://mcrwowza7.mcr.iol.pt/m8080/m8080.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80RCK" group-title="Music",M80 Rádio Rock (aud)
-http://mcrwowza7.mcr.iol.pt/m80rock/m80rock.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8090" group-title="Music",M80 Rádio 90’s (aud)
-http://mcrwowza7.mcr.iol.pt/m8090/m8090.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80BAL" group-title="Music",M80 Rádio Ballads (aud)
-http://mcrwowza7.mcr.iol.pt/m80ballads/m80ballads.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80POP" group-title="Music",M80 Rádio Pop (aud)
-http://mcrwowza7.mcr.iol.pt/m80pop/m80pop.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8070" group-title="Music",M80 Rádio 70’s (aud)
-http://mcrwowza7.mcr.iol.pt/m8070/m8070.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80DNC" group-title="Music",M80 Rádio Dance (aud)
-http://mcrwowza7.mcr.iol.pt/m80dance/m80dance.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80IND" group-title="Music",M80 Rádio Indie (aud)
-http://mcrwowza7.mcr.iol.pt/m80indie/m80indie.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80NAC" group-title="Music",M80 Rádio Portugal (aud)
-http://mcrwowza7.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M80SOL" group-title="Music",M80 Rádio Soul (aud)
-http://mcrwowza7.mcr.iol.pt/m80soul/m80soul.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=M8060" group-title="Music",M80 Rádio 60’s (aud)
-http://mcrwowza7.mcr.iol.pt/m8060/m8060.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDFM" group-title="Entertainment",Cidade FM (aud)
-http://mcrwowza3.mcr.iol.pt/cidade/ngrp:cidade.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=CIDHH" group-title="Music",Cidade Hip Hop (aud)
-http://mcrwowza7.mcr.iol.pt/cidhiphop/cidhiphop.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOFM" group-title="Entertainment",Smooth FM (aud)
-http://mcrwowza3.mcr.iol.pt/smooth/ngrp:smooth.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOVJZ" group-title="Music",Smooth Vocal Jazz (aud)
-http://mcrwowza7.mcr.iol.pt/smovocaljazz/smovocaljazz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOSOL" group-title="Music",Smooth Soul (aud)
-http://mcrwowza7.mcr.iol.pt/smoothsoul/smoothsoul.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBLS" group-title="Music",Smooth Blues (aud)
-http://mcrwowza7.mcr.iol.pt/smoblues/smoblues.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOBOS" group-title="Music",Smooth Bossa Nova (aud)
-http://mcrwowza7.mcr.iol.pt/smobossa/smobossa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SMOJZ" group-title="Music",Smooth Jazz (aud)
-http://mcrwowza7.mcr.iol.pt/smojazz/smojazz.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=VDFFM" group-title="Music",Vodafone.FM (aud)
-http://mcrwowza3.mcr.iol.pt/vodafone/ngrp:vodafone.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM" group-title="Entertainment",RFM (aud)
-http://19553.live.streamtheworld.com/RFMAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFM80S" group-title="Music",RFM 80’s (aud)
-http://19553.live.streamtheworld.com/GR80SRFMAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOTR" group-title="Music",RFM On The Rock (aud)
-http://19553.live.streamtheworld.com/RFMONTHEROCKAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMDF" group-title="Music",RFM Dancefloor (aud)
-http://19553.live.streamtheworld.com/DANCEONTHEFLOORAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RFMOP" group-title="Music",RFM Oceano Pacífico (aud)
-http://19553.live.streamtheworld.com/OCEANPACIFICAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RENASC" group-title="Entertainment",Rádio Renascença (aud)
-http://19553.live.streamtheworld.com/RADIO_RENASCENCAAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=MEGAHITS" group-title="Music",Mega Hits (aud)
-http://19553.live.streamtheworld.com/MEGA_HITSAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RSIM" group-title="Entertainment",Rádio Sim (aud)
-http://19553.live.streamtheworld.com/RADIO_SIMAAC
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=TSF" group-title="News",TSF Rádio Notícias (aud)
-http://tsfdirecto.tsf.pt/tsfdirecto.aac
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=OBSRV" group-title="News",Rádio Observador (aud)
-http://streamingv2.shoutcast.com/observador_64.aac
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=SBSRFM" group-title="Music",SBSR FM (aud)
-http://centova.radios.pt/proxy/435?mp=/stream
-#EXTINF:-1 tvg-logo="https://ptiptv.tk/logo?i=RMSW" group-title="Music",Rádio MEO Sudoeste (aud)
-http://centova.radios.pt/proxy/495?mp=/stream
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1.ts
+#EXTINF:-1,RTP 2
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/2.ts
+#EXTINF:-1,SIC
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3.ts
+#EXTINF:-1,TVI
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/4.ts
+#EXTINF:-1,---------- NOTICIAS ----------
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/67.ts
+#EXTINF:-1,CMTV
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/8.ts
+#EXTINF:-1,RTP 3
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/5.ts
+#EXTINF:-1,TVI  24
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/7.ts
+#EXTINF:-1,A BOLA
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/30.ts
+#EXTINF:-1,SIC NOTICIAS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/6.ts
+#EXTINF:-1,PORTO CANAL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/51.ts
+#EXTINF:-1,SPORT TV +
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/33.ts
+#EXTINF:-1,Sport tv + LSD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1603.ts
+#EXTINF:-1,RTP MEMORIA
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/647.ts
+#EXTINF:-1,---------- ANIMAÇAO ----------
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/68.ts
+#EXTINF:-1,SIC K
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/10.ts
+#EXTINF:-1,SIC RADICAL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/12.ts
+#EXTINF:-1,PANDA BIGGS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/9.ts
+#EXTINF:-1,JIM JAM
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/11.ts
+#EXTINF:-1,NICKELODEON
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/14.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/15.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/16.ts
+#EXTINF:-1,CARTOON NETWORK
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/17.ts
+#EXTINF:-1,CANAL PANDA
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/13.ts
+#EXTINF:-1,---------- FILMES & SERIES ----------
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/69.ts
+#EXTINF:-1,AMC
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/21.ts
+#EXTINF:-1,AXN HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/18.ts
+#EXTINF:-1,AXN WHITE
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/20.ts
+#EXTINF:-1,AXN BLACK
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/19.ts
+#EXTINF:-1,SYFY
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/645.ts
+#EXTINF:-1,FOX COMEDY
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/52.ts
+#EXTINF:-1,FOX
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/642.ts
+#EXTINF:-1,FOX LIFE
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1229.ts
+#EXTINF:-1,FOX CRIME
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/641.ts
+#EXTINF:-1,FOX MOVIES
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/22.ts
+#EXTINF:-1,CINEMUNDO
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/23.ts
+#EXTINF:-1,HOLLYWOOD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/24.ts
+#EXTINF:-1,NOS STUDIOS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3499.ts
+#EXTINF:-1,TVCINE 1
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1738.ts
+#EXTINF:-1,TVCINE 1 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/25.ts
+#EXTINF:-1,TVCINE 2
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1739.ts
+#EXTINF:-1,TVCINE 2 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/26.ts
+#EXTINF:-1,TVCINE 3
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1740.ts
+#EXTINF:-1,TVCINE 3 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/27.ts
+#EXTINF:-1,TVCINE 4
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1741.ts
+#EXTINF:-1,TVCINE 4 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/28.ts
+#EXTINF:-1,TV SERIES
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1743.ts
+#EXTINF:-1,TVSERIES HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/29.ts
+#EXTINF:-1,---------- DESPORTO ----------
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/70.ts
+#EXTINF:-1,SPORT TV 1
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/34.ts
+#EXTINF:-1,SPORT TV 1 ( Opção 2 ) NOS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/32.ts
+#EXTINF:-1,SPORT TV 1 HD / BTV
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/183.ts
+#EXTINF:-1,SPORT TV 1 HD ( Opção 2 ) NOS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/184.ts
+#EXTINF:-1,SPORT TV 1 FHD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1477.ts
+#EXTINF:-1,SPORT TV 1 UHD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/36.ts
+#EXTINF:-1,Sport tv 1 LSD (net movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1604.ts
+#EXTINF:-1,SPORT TV 2
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/651.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/37.ts
+#EXTINF:-1,Sport tv 2 LSD (net movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1605.ts
+#EXTINF:-1,SPORT TV 3
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/652.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/38.ts
+#EXTINF:-1,Sport tv 3 LSD (net movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1606.ts
+#EXTINF:-1,SPORT TV 4
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/39.ts
+#EXTINF:-1,SPORT TV 4 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/922.ts
+#EXTINF:-1,Sport tv 4 LSD (net movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1607.ts
+#EXTINF:-1,SPORT TV 5
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/40.ts
+#EXTINF:-1,SPORT TV 5 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/187.ts
+#EXTINF:-1,Sport tv 5 LOW HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1478.ts
+#EXTINF:-1,Sport tv 5 LSD (net movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1608.ts
+#EXTINF:-1,BENFICA TV 1
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/41.ts
+#EXTINF:-1,BENFICA TV 1 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/42.ts
+#EXTINF:-1,BENFICA TV 1 ( Opção 2 NOS )
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/653.ts
+#EXTINF:-1,BENFICA TV 1  (1 MEGA)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/189.ts
+#EXTINF:-1,Canal 11
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3500.ts
+#EXTINF:-1,Eleven Sports 1 SD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1504.ts
+#EXTINF:-1,Eleven Sports 1 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1483.ts
+#EXTINF:-1,Eleven Sports 1 FHD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1490.ts
+#EXTINF:-1,Eleven Sports 1 LSD (Net Movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1735.ts
+#EXTINF:-1,Eleven Sports 2 SD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1505.ts
+#EXTINF:-1,Eleven Sports 2 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1484.ts
+#EXTINF:-1,Eleven Sports 2 FHD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1492.ts
+#EXTINF:-1,Eleven Sports 2 LSD (Net Movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1736.ts
+#EXTINF:-1,Eleven Sports 3 SD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1493.ts
+#EXTINF:-1,Eleven Sports 3 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1494.ts
+#EXTINF:-1,Eleven Sports 3 FHD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1506.ts
+#EXTINF:-1,Eleven Sports 3 LSD (Net Movel)
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1737.ts
+#EXTINF:-1,Eleven Sports 4 SD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1501.ts
+#EXTINF:-1,Eleven Sports 4 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1498.ts
+#EXTINF:-1,Eleven Sports 5 SD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1502.ts
+#EXTINF:-1,Eleven Sports 5 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1499.ts
+#EXTINF:-1,Eleven Sports 6 SD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1503.ts
+#EXTINF:-1,Eleven Sports 6 HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1500.ts
+#EXTINF:-1,SPORTING TV
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/646.ts
+#EXTINF:-1,EUROSPORT 1
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/31.ts
+#EXTINF:-1,EUROSPORT 2
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1742.ts
+#EXTINF:-1,NBA TV HD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/188.ts
+#EXTINF:-1,CAÇAVISION
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/43.ts
+#EXTINF:-1,CAZA y PESCA
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/44.ts
+#EXTINF:-1,MOTORVISION
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/190.ts
+#EXTINF:-1,KOMBAT SPORTS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/191.ts
+#EXTINF:-1,RED BULL TV
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/3501.ts
+#EXTINF:-1,MOTO GP
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1436.ts
+#EXTINF:-1,PFC
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/654.ts
+#EXTINF:-1,---------- ENTERTIMENTO ----------
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/71.ts
+#EXTINF:-1,TVI  REALITY
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/45.ts
+#EXTINF:-1,TVI REALITY MOSAICO ( OFF )
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/46.ts
+#EXTINF:-1,CANAL Q
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1440.ts
+#EXTINF:-1,TLC
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1345.ts
+#EXTINF:-1,SIC CARAS
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/921.ts
+#EXTINF:-1,SIC MULHER
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/648.ts
+#EXTINF:-1,TVI FICCAO
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/50.ts
+#EXTINF:-1,TV RECORD
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/47.ts
+#EXTINF:-1,TV GLOBO
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/48.ts
+#EXTINF:-1,TV GLOBO NOW
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/49.ts
+#EXTINF:-1,ODISSEIA
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/53.ts
+#EXTINF:-1,HISTORIA
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/54.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/55.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/56.ts
+#EXTINF:-1,NAT GEO WILL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/57.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/61.ts
+#EXTINF:-1,24 KITCHEN
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/58.ts
+#EXTINF:-1,FOOD NETWORK
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1439.ts
+#EXTINF:-1,VH1
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1442.ts
+#EXTINF:-1,VH1 CLASSIC
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/1441.ts
+#EXTINF:-1,MTV PORTUGAL
+http://dgimedia.ddns.net:9898/live/0beYa2Gw4i/i0cJaYFyFw/59.ts
