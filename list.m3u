@@ -1,397 +1,243 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4120
-#EXTINF:-1,RTP 1
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4160
-#EXTINF:-1,RTP 2 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4119
-#EXTINF:-1,RTP 2
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4159
-#EXTINF:-1,SIC HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4115
-#EXTINF:-1,SIC
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4154
-#EXTINF:-1,TVI HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4098
-#EXTINF:-1,TVI
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4126
-#EXTINF:-1,GLOBO HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4209
-#EXTINF:-1,GLOBO
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4210
-#EXTINF:-1,GLOBO NOW
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4208
-#EXTINF:-1,TV RECORD HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4100
-#EXTINF:-1,TV RECORD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4136
-#EXTINF:-1,TVI FICCAO
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4124
-#EXTINF:-1,TVI REALITY
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4123
-#EXTINF:-1,TPA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4138
-#EXTINF:-1,SIC MULHER HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4113
-#EXTINF:-1,SIC MULHER
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4151
-#EXTINF:-1,SIC CARAS HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4116
-#EXTINF:-1,SIC CARAS
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4153
-#EXTINF:-1,SIC RADICAL
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4149
-#EXTINF:-1,RTP MADEIRA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4155
-#EXTINF:-1,RTP ACORES
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4157
-#EXTINF:-1,RTP AFRICA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4156
-#EXTINF:-1,RTP MEMORIA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4117
-#EXTINF:-1,CANAL Q
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4192
-#EXTINF:-1,--- Noticias ---
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4673
-#EXTINF:-1,CMTV HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4225
-#EXTINF:-1,SIC NOTICIAS HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4112
-#EXTINF:-1,RTP 3 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4118
-#EXTINF:-1,CM TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4188
-#EXTINF:-1,SIC NOTICIAS
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4150
-#EXTINF:-1,TVI 24
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4125
-#EXTINF:-1,EURONEWS
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4783
-#EXTINF:-1,RTP 3
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4158
-#EXTINF:-1,ARTV PARLAMENTO
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4234
-#EXTINF:-1,--- Series & Movies ---
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4671
-#EXTINF:-1,TV SERIES HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4135
-#EXTINF:-1,TVCINE 1 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4133
-#EXTINF:-1,TVCINE 2 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4131
-#EXTINF:-1,TVCINE 3 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4130
-#EXTINF:-1,TVCINE 4 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4127
-#EXTINF:-1,HOLLYWOOD HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4173
-#EXTINF:-1,NOS STUDIOS HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4166
-#EXTINF:-1,CINEMUNDO HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4226
-#EXTINF:-1,FOX MOVIES HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4212
-#EXTINF:-1,FOX HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4214
-#EXTINF:-1,FOX COMEDY HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4215
-#EXTINF:-1,AXN HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4233
-#EXTINF:-1,SYFY HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4102
-#EXTINF:-1,AXN WHITE HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4198
-#EXTINF:-1,AXN BLACK HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4199
-#EXTINF:-1,AMC HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4079
-#EXTINF:-1,TV SERIES
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4099
-#EXTINF:-1,TVCINE 1
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4134
-#EXTINF:-1,TVCINE 2
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4132
-#EXTINF:-1,TVCINE 3
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4784
-#EXTINF:-1,TVCINE 4
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4128
-#EXTINF:-1,HOLLYWOOD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4174
-#EXTINF:-1,FOX MOVIES
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4213
-#EXTINF:-1,FOX LIFE
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4176
-#EXTINF:-1,FOX CRIME
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4177
-#EXTINF:-1,FOX COMEDY
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4178
-#EXTINF:-1,SYFY
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4141
-#EXTINF:-1,AMC
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4200
-#EXTINF:-1,--- DESPORTO ---
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4672
-#EXTINF:-1,Sport TV 1 FHD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4078
-#EXTINF:-1,Sport TV 2 FHD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4077
-#EXTINF:-1,Sport TV 3 FHD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4073
-#EXTINF:-1,Sport TV 4 FHD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4072
-#EXTINF:-1,SPORT TV 5 FHD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4071
-#EXTINF:-1,ELEVEN SPORTS 1HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4221
-#EXTINF:-1,ELEVEN SPORTS 2HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4220
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4092
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4091
-#EXTINF:-1,BTV 1 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4194
-#EXTINF:-1,PORTO CANAL HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4202
-#EXTINF:-1,SPORTING TV HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4110
-#EXTINF:-1,SPORT TV NBA HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4111
-#EXTINF:-1,CANAL 11 FPF
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4229
-#EXTINF:-1,SPORT TV+ HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4147
-#EXTINF:-1,SPORTTV 1 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4144
-#EXTINF:-1,SPORTV 1
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4109
-#EXTINF:-1,SPORTV 2 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4143
-#EXTINF:-1,SPORTV 2
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4108
-#EXTINF:-1,SPORTV 3 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4142
-#EXTINF:-1,SPORTV 3
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4107
-#EXTINF:-1,SPORTV 4 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4105
-#EXTINF:-1,SPORTV 4
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4106
-#EXTINF:-1,SPORTV 5 HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4103
-#EXTINF:-1,SPORTV 5
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4104
-#EXTINF:-1,ELEVEN SPORTS 3
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4219
-#EXTINF:-1,ELEVEN SPORTS 4
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4218
-#EXTINF:-1,ELEVEN SPORTS 5
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4217
-#EXTINF:-1,ELEVEN SPORTS 6
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4216
-#EXTINF:-1,BTV 1
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4195
-#EXTINF:-1,SPORTTV +
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4145
-#EXTINF:-1,SPORTING TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4146
-#EXTINF:-1,MOTORVISION
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4170
-#EXTINF:-1,ABOLA TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4236
-#EXTINF:-1,KOMBAT SPORT
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4207
-#EXTINF:-1,PFC
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4163
-#EXTINF:-1,PORTO CANAL
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4161
-#EXTINF:-1,--- Documentarios ---
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4677
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4076
-#EXTINF:-1,NAT GEO WILD HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4085
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4223
-#EXTINF:-1,ODISSEIA HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4084
-#EXTINF:-1,NAT GEO WILD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4169
-#EXTINF:-1,DISCOVERY CHANNEL
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4185
-#EXTINF:-1,ODISSEIA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4165
-#EXTINF:-1,CANAL HISTORIA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4228
-#EXTINF:-1,CRIME INVESTIGATION
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4224
-#EXTINF:-1,TRAVEL CHANNEL
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4137
-#EXTINF:-1,CACAVISION
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4230
-#EXTINF:-1,CAÇA E PESCA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4231
-#EXTINF:-1,TOROS TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4139
-#EXTINF:-1,--- Kids ---
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4676
-#EXTINF:-1,DISNEY CHANNEL
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4184
-#EXTINF:-1,DISNEY JUNIOR
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4222
-#EXTINF:-1,CANAL PANDA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4193
-#EXTINF:-1,PANDA BIGGS
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4164
-#EXTINF:-1,CARTOON NETWORK
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4227
-#EXTINF:-1,NICKELODEON
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4167
-#EXTINF:-1,SIC K HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4114
-#EXTINF:-1,SIC K
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4152
-#EXTINF:-1,JIM JAM
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4171
-#EXTINF:-1,BABY TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4232
-#EXTINF:-1,NICK JR.
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4168
-#EXTINF:-1,KURIAKOS KIDS HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4088
-#EXTINF:-1,--- Music ---
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4675
-#EXTINF:-1,MTV HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4086
-#EXTINF:-1,MCM POP
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4206
-#EXTINF:-1,VH1
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4097
-#EXTINF:-1,AFRO TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4201
-#EXTINF:-1,MTV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4205
-#EXTINF:-1,VH1 CLASSIC
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4121
-#EXTINF:-1,TRACE URBAN
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4101
-#EXTINF:-1,--- OUTROS --
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4674
-#EXTINF:-1,FOOD NETWORK HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4089
-#EXTINF:-1,LOCALVISAO HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4087
-#EXTINF:-1,FINE LIVING HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4090
-#EXTINF:-1,S SAUDE HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4081
-#EXTINF:-1,BLAZE HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4096
-#EXTINF:-1,EUROSPORT HD
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4180
-#EXTINF:-1,TLC
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4140
-#EXTINF:-1,SKY News
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4148
-#EXTINF:-1,FUEL TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4175
-#EXTINF:-1,FASHION TV
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4179
-#EXTINF:-1,EUROSPORT
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4182
-#EXTINF:-1,EUROSPORT 2
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4181
-#EXTINF:-1,E! ENTERTAINMENT
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4183
-#EXTINF:-1,CNN
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4186
-#EXTINF:-1,CNBC
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4187
-#EXTINF:-1,CBS REALITY
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4190
-#EXTINF:-1,CANCAO NOVA
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4191
-#EXTINF:-1,BBC World News
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4196
-#EXTINF:-1,BBC ENTRAITEMENT
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4197
-#EXTINF:-1,MY CUISINE
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4204
-#EXTINF:-1,FOX News
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4211
-#EXTINF:-1,24 KITCHEN
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4237
-#EXTINF:-1,PT-HOT
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4172
-#EXTINF:-1,PT-VENUS
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4122
-#EXTINF:-1,PT-PLAYBOY
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4162
-#EXTINF:-1,RTP 1 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4786
-#EXTINF:-1,RTP 2 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4787
-#EXTINF:-1,SIC [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4788
-#EXTINF:-1,TVI [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4789
-#EXTINF:-1,CMTV [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4790
-#EXTINF:-1,SIC NOTICIAS [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4791
-#EXTINF:-1,SIC MULHER [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4792
-#EXTINF:-1,TVI REALITY [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4793
-#EXTINF:-1,TVI FICCAO [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4794
-#EXTINF:-1,SPORT TV 1 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4795
-#EXTINF:-1,SPORT TV 2 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4796
-#EXTINF:-1,SPORT TV 3 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4797
-#EXTINF:-1,SPORT TV 4 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4798
-#EXTINF:-1,SPORT TV 5 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4799
-#EXTINF:-1,BTV [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4800
-#EXTINF:-1,ELEVEN SPORTS 1 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4801
-#EXTINF:-1,ELEVEN SPORTS 2 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4802
-#EXTINF:-1,ELEVEN SPORTS 3 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4803
-#EXTINF:-1,ELEVEN SPORTS 4 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4804
-#EXTINF:-1,ELEVEN SPORTS 5 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4805
-#EXTINF:-1,ELEVEN SPORTS 6 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4806
-#EXTINF:-1,AXN [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4807
-#EXTINF:-1,AXN BLACK [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4808
-#EXTINF:-1,AXN WHITE [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4809
-#EXTINF:-1,FOX MOVIES [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4810
-#EXTINF:-1,FOX [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4811
-#EXTINF:-1,TVCINE 2 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4812
-#EXTINF:-1,TVCINE 3 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4813
-#EXTINF:-1,TVCINE 4 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4814
-#EXTINF:-1,CINEMUNDO [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4815
-#EXTINF:-1,Hollywood [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4816
-#EXTINF:-1,AMC [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4817
-#EXTINF:-1,GLOBO [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4818
-#EXTINF:-1,TVCINE 1 [LOW]
-http://magica.club:8080/rJQuQzKjh3/jMwZ2byqwq/4819
+#EXTINF:-1,PT: 24 KITCHEN
+http://gold.hopto.me:83/11111111/22222222/376498
+#EXTINF:-1,PT: A & E
+http://gold.hopto.me:83/11111111/22222222/376497
+#EXTINF:-1,PT: A BOLA TV
+http://gold.hopto.me:83/11111111/22222222/376496
+#EXTINF:-1,PT: AMC
+http://gold.hopto.me:83/11111111/22222222/376495
+#EXTINF:-1,PT: AMC HD 1080
+http://gold.hopto.me:83/11111111/22222222/376502
+#EXTINF:-1,PT: AXN
+http://gold.hopto.me:83/11111111/22222222/376494
+#EXTINF:-1,PT: AXN BLACK HD 1080
+http://gold.hopto.me:83/11111111/22222222/376503
+#EXTINF:-1,PT: AXN HD 1080
+http://gold.hopto.me:83/11111111/22222222/376504
+#EXTINF:-1,PT: AXN WHITE
+http://gold.hopto.me:83/11111111/22222222/376493
+#EXTINF:-1,PT: AXN WHITE HD 1080
+http://gold.hopto.me:83/11111111/22222222/376505
+#EXTINF:-1,PT: BABY TV
+http://gold.hopto.me:83/11111111/22222222/376492
+#EXTINF:-1,PT: BENFICA TV 1
+http://gold.hopto.me:83/11111111/22222222/376491
+#EXTINF:-1,PT: BENFICA TV 2
+http://gold.hopto.me:83/11111111/22222222/376490
+#EXTINF:-1,PT: BTV 1 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376506
+#EXTINF:-1,PT: CAï¿½A & PESCA
+http://gold.hopto.me:83/11111111/22222222/376489
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://gold.hopto.me:83/11111111/22222222/376488
+#EXTINF:-1,PT: CANAL PANDA
+http://gold.hopto.me:83/11111111/22222222/376487
+#EXTINF:-1,PT: CANAL Q
+http://gold.hopto.me:83/11111111/22222222/376486
+#EXTINF:-1,PT: CARTOON  NETWORK
+http://gold.hopto.me:83/11111111/22222222/376485
+#EXTINF:-1,PT: CBS REALITY
+http://gold.hopto.me:83/11111111/22222222/376484
+#EXTINF:-1,PT: CINEMUNDO
+http://gold.hopto.me:83/11111111/22222222/376482
+#EXTINF:-1,PT: CM TV
+http://gold.hopto.me:83/11111111/22222222/376481
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://gold.hopto.me:83/11111111/22222222/376480
+#EXTINF:-1,PT: Discovery HD Showcase
+http://gold.hopto.me:83/11111111/22222222/376479
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://gold.hopto.me:83/11111111/22222222/376478
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://gold.hopto.me:83/11111111/22222222/376477
+#EXTINF:-1,PT: E! Entertainment
+http://gold.hopto.me:83/11111111/22222222/376476
+#EXTINF:-1,PT: Eleven Sports 1
+http://gold.hopto.me:83/11111111/22222222/378302
+#EXTINF:-1,PT: Eleven Sports 2
+http://gold.hopto.me:83/11111111/22222222/378303
+#EXTINF:-1,PT: Eleven Sports 3
+http://gold.hopto.me:83/11111111/22222222/378304
+#EXTINF:-1,PT: Eleven Sports 4
+http://gold.hopto.me:83/11111111/22222222/378305
+#EXTINF:-1,PT: Eleven Sports 5
+http://gold.hopto.me:83/11111111/22222222/378306
+#EXTINF:-1,PT: Eleven Sports 6
+http://gold.hopto.me:83/11111111/22222222/378307
+#EXTINF:-1,PT: EUROSPORT
+http://gold.hopto.me:83/11111111/22222222/376475
+#EXTINF:-1,PT: Eurosport 1
+http://gold.hopto.me:83/11111111/22222222/376531
+#EXTINF:-1,PT: EUROSPORT 1 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376507
+#EXTINF:-1,PT: Eurosport new
+http://gold.hopto.me:83/11111111/22222222/376530
+#EXTINF:-1,PT: FIGHT NETWORK HD 1080
+http://gold.hopto.me:83/11111111/22222222/376508
+#EXTINF:-1,PT: Fox Comedy
+http://gold.hopto.me:83/11111111/22222222/376474
+#EXTINF:-1,PT: FOX Comedy HD 1080
+http://gold.hopto.me:83/11111111/22222222/376509
+#EXTINF:-1,PT: FOX CRIME
+http://gold.hopto.me:83/11111111/22222222/376473
+#EXTINF:-1,PT: Fox Crime
+http://gold.hopto.me:83/11111111/22222222/376500
+#EXTINF:-1,PT: FOX CRIME HD 1080
+http://gold.hopto.me:83/11111111/22222222/376510
+#EXTINF:-1,PT: FOX HD 1080
+http://gold.hopto.me:83/11111111/22222222/376511
+#EXTINF:-1,PT: FOX LIFE
+http://gold.hopto.me:83/11111111/22222222/376472
+#EXTINF:-1,PT: FOX LIFE HD 1080
+http://gold.hopto.me:83/11111111/22222222/376512
+#EXTINF:-1,PT: FOX MOVIES
+http://gold.hopto.me:83/11111111/22222222/376471
+#EXTINF:-1,PT: FOX TV
+http://gold.hopto.me:83/11111111/22222222/376470
+#EXTINF:-1,PT: FUEL TV
+http://gold.hopto.me:83/11111111/22222222/376469
+#EXTINF:-1,PT: FUEL TV HD 1080
+http://gold.hopto.me:83/11111111/22222222/376513
+#EXTINF:-1,PT: GLOBO
+http://gold.hopto.me:83/11111111/22222222/376468
+#EXTINF:-1,PT: Historia
+http://gold.hopto.me:83/11111111/22222222/376499
+#EXTINF:-1,PT: HOLLYWOOD
+http://gold.hopto.me:83/11111111/22222222/376467
+#EXTINF:-1,PT: JIM JAM
+http://gold.hopto.me:83/11111111/22222222/376466
+#EXTINF:-1,PT: MOTORS TV
+http://gold.hopto.me:83/11111111/22222222/376465
+#EXTINF:-1,PT: MOTORVISION
+http://gold.hopto.me:83/11111111/22222222/376464
+#EXTINF:-1,PT: MOTORVISION TV
+http://gold.hopto.me:83/11111111/22222222/376463
+#EXTINF:-1,PT: MOV HD
+http://gold.hopto.me:83/11111111/22222222/376462
+#EXTINF:-1,PT: Mtv Portuga
+http://gold.hopto.me:83/11111111/22222222/376461
+#EXTINF:-1,PT: MTV PORTUGAL
+http://gold.hopto.me:83/11111111/22222222/376460
+#EXTINF:-1,PT: Nat Geo Wild
+http://gold.hopto.me:83/11111111/22222222/376458
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://gold.hopto.me:83/11111111/22222222/376459
+#EXTINF:-1,PT: NICKELODEON
+http://gold.hopto.me:83/11111111/22222222/376457
+#EXTINF:-1,PT: ODISSEIA
+http://gold.hopto.me:83/11111111/22222222/376456
+#EXTINF:-1,PT: PFC
+http://gold.hopto.me:83/11111111/22222222/376455
+#EXTINF:-1,PT: PORTO CANAL
+http://gold.hopto.me:83/11111111/22222222/376454
+#EXTINF:-1,PT: RTP 1
+http://gold.hopto.me:83/11111111/22222222/376453
+#EXTINF:-1,PT: RTP 2
+http://gold.hopto.me:83/11111111/22222222/376452
+#EXTINF:-1,PT: RTP 3
+http://gold.hopto.me:83/11111111/22222222/376451
+#EXTINF:-1,PT: RTP AÇORES
+http://gold.hopto.me:83/11111111/22222222/376450
+#EXTINF:-1,PT: RTP ï¿½FRICA
+http://gold.hopto.me:83/11111111/22222222/376449
+#EXTINF:-1,PT: RTP MADEIRA
+http://gold.hopto.me:83/11111111/22222222/376501
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://gold.hopto.me:83/11111111/22222222/376448
+#EXTINF:-1,PT: Sic
+http://gold.hopto.me:83/11111111/22222222/376447
+#EXTINF:-1,PT: SIC MULHER
+http://gold.hopto.me:83/11111111/22222222/376446
+#EXTINF:-1,PT: SIC NOTICIAS
+http://gold.hopto.me:83/11111111/22222222/376445
+#EXTINF:-1,PT: SIC NOTICIAS HD 1080
+http://gold.hopto.me:83/11111111/22222222/376514
+#EXTINF:-1,PT: SIC RADICAL
+http://gold.hopto.me:83/11111111/22222222/376444
+#EXTINF:-1,PT: SIC RADICAL HD 1080
+http://gold.hopto.me:83/11111111/22222222/376515
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://gold.hopto.me:83/11111111/22222222/376443
+#EXTINF:-1,PT: SPORT TV 1 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376518
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://gold.hopto.me:83/11111111/22222222/376442
+#EXTINF:-1,PT: SPORT TV 2 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376519
+#EXTINF:-1,PT: SPORT TV 2 HD(1)
+http://gold.hopto.me:83/11111111/22222222/376416
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://gold.hopto.me:83/11111111/22222222/376441
+#EXTINF:-1,PT: SPORT TV 3 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376520
+#EXTINF:-1,PT: SPORT TV 3HD
+http://gold.hopto.me:83/11111111/22222222/376529
+#EXTINF:-1,PT: SPORT TV 4
+http://gold.hopto.me:83/11111111/22222222/376440
+#EXTINF:-1,PT: SPORT TV 4 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376521
+#EXTINF:-1,PT: SPORT TV 4HD
+http://gold.hopto.me:83/11111111/22222222/376439
+#EXTINF:-1,PT: SPORT TV 5
+http://gold.hopto.me:83/11111111/22222222/376438
+#EXTINF:-1,PT: SPORT TV 5 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376522
+#EXTINF:-1,PT: SPORT TV 5HD
+http://gold.hopto.me:83/11111111/22222222/376437
+#EXTINF:-1,PT: SPORT TV+
+http://gold.hopto.me:83/11111111/22222222/376516
+#EXTINF:-1,PT: SPORT TV+  HD 1080
+http://gold.hopto.me:83/11111111/22222222/376517
+#EXTINF:-1,PT: SPORTING TV
+http://gold.hopto.me:83/11111111/22222222/376436
+#EXTINF:-1,PT: Sporting TV HD 1080
+http://gold.hopto.me:83/11111111/22222222/376523
+#EXTINF:-1,PT: SYFY
+http://gold.hopto.me:83/11111111/22222222/376435
+#EXTINF:-1,PT: SyFy HD 1080
+http://gold.hopto.me:83/11111111/22222222/376524
+#EXTINF:-1,PT: TLC
+http://gold.hopto.me:83/11111111/22222222/376434
+#EXTINF:-1,PT: TOUROS TV
+http://gold.hopto.me:83/11111111/22222222/376433
+#EXTINF:-1,PT: TV CINE 1  HD
+http://gold.hopto.me:83/11111111/22222222/376432
+#EXTINF:-1,PT: TV CINE 2  HD
+http://gold.hopto.me:83/11111111/22222222/376431
+#EXTINF:-1,PT: TV CINE 3 HD
+http://gold.hopto.me:83/11111111/22222222/376430
+#EXTINF:-1,PT: TV CINE 4
+http://gold.hopto.me:83/11111111/22222222/376429
+#EXTINF:-1,PT: TV GLOBO
+http://gold.hopto.me:83/11111111/22222222/376428
+#EXTINF:-1,PT: TV Globo Premium
+http://gold.hopto.me:83/11111111/22222222/376427
+#EXTINF:-1,PT: TV RECORD
+http://gold.hopto.me:83/11111111/22222222/376426
+#EXTINF:-1,PT: TVC HD
+http://gold.hopto.me:83/11111111/22222222/376425
+#EXTINF:-1,PT: TVCINE 1 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376525
+#EXTINF:-1,PT: TVCINE 2 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376526
+#EXTINF:-1,PT: TVCINE 3 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376527
+#EXTINF:-1,PT: TVCINE 4 HD 1080
+http://gold.hopto.me:83/11111111/22222222/376528
+#EXTINF:-1,PT: TVCseries
+http://gold.hopto.me:83/11111111/22222222/376424
+#EXTINF:-1,PT: TVI
+http://gold.hopto.me:83/11111111/22222222/376423
+#EXTINF:-1,PT: TVI 24
+http://gold.hopto.me:83/11111111/22222222/376422
+#EXTINF:-1,PT: TVI REALITY
+http://gold.hopto.me:83/11111111/22222222/376421
+#EXTINF:-1,PT: TVI Reality (A Quinta)
+http://gold.hopto.me:83/11111111/22222222/376420
+#EXTINF:-1,PT: VH1
+http://gold.hopto.me:83/11111111/22222222/376419
+#EXTINF:-1,PT: VH1 CLASSIC
+http://gold.hopto.me:83/11111111/22222222/376418
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://gold.hopto.me:83/11111111/22222222/376417
